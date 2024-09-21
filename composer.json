@@ -1,0 +1,16 @@
+{
+    "name": "leticia/projeto-em-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Leticia\\ProjetoEmPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leticia",
+            "email": "leticia.marinho532@gmail.com"
+        }
+    ],
+    "require": {}
+}
